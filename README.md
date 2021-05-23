@@ -1,16 +1,18 @@
-### Hi there 👋
+## About Me
 
-<!--
-**developersthought/developersthought** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a Software Engineer working as a Backend Developer for a multinational company in Pune.
+- I am passionate about trending technologies and tools and always try to learn and share them in the simplest possible manner.
+- I run a [YouTube](https://www.youtube.com/developersthought) channel and a [Blog](https://developersthought.in/). This are my main platforms for knowledge sharing.
+- Other than YouTube Channel and Blog I also share knowledge throught Meetups, Conferences & Webinars.
+- My area of interest are Hybrid Cloud, DevOps tools, and Infrastructure as a Code.
 
-Here are some ideas to get you started:
+## Contact Me
+### Why?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- To suggest a new blog or YouTube video
+- To give feedback on existing blogs & YouTube video
+- To conduct a Webinar or Meetup on Containers, Kubernetes, OpenShift, Terraform & Go related topics
+- To discuss anything related to Containers, Kubernetes, OpenShift, Terraform & Go
+
+### How?
+Please drop me an email at [contact@developersthought.in](mailto:contact@developersthought.in)
