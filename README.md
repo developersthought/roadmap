@@ -1,8 +1,8 @@
 ## About Me
 
-- I am a Software Engineer working as a Backend Developer for a multinational company in Pune.
-- I am passionate about trending technologies and tools and always try to learn and share them in the simplest possible manner.
-- I run a [YouTube](https://www.youtube.com/developersthought) channel and a [Blog](https://developersthought.in/). This are my main platforms for knowledge sharing.
+- A Software Engineer working as a Backend Developer for a multinational company in Pune.
+- Passionate about trending technologies and tools and always try to learn and share them in the simplest possible manner.
+- Creator of a [YouTube](https://www.youtube.com/developersthought) channel and a [Blog](https://developersthought.in/). This are my main platforms for knowledge sharing.
 - Other than YouTube Channel and Blog I also share knowledge throught Meetups, Conferences & Webinars.
 - My area of interest are Hybrid Cloud, DevOps tools, and Infrastructure as a Code.
 
