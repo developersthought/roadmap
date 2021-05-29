@@ -12,6 +12,6 @@ Forum to discuss everything about **Developers Thought** [Blog](https://develope
  ## How to discuss?
 
  - Simply open an issue [here](https://github.com/developersthought/roadmap/issues) with appropriate [labels](https://github.com/developersthought/roadmap/labels).
- - Drop me an email at [contact@developersthought.in](mailto:contact@developersthought.in)
+ - Drop me an email at [contact@developersthought.in](mailto:contact@developersthought.in).
 
 > I will also open an issue for a new Blog and YouTube video So that you can also see what's coming next on Developers Thought.
