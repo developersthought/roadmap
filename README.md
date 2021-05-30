@@ -1,17 +1,18 @@
+![Developers Thought](https://raw.githubusercontent.com/developersthought/developersthought/main/banner.png)
+
 # Developers Thought
 
-A platform where I explain the following technologies in the simplest possible manner:
-
-- Go
-- DevOps tools
-- Kubernetes
-- OpenShift
-- Microservices
-
-## Platform
-
-- [Developers Thought Blog](https://developersthought.in/)
-- [Developers Thought YouTube Channel](https://www.youtube.com/developersthought)
+- A initiative to make technology as simple as possible.
+- As part of this initiative I teach the following technologies in the simplest possible manner:
+  - Go
+  - DevOps tools
+  - Kubernetes
+  - OpenShift
+  - Cloud-Native
+  - Microservices
+- I use the following platforms to teach:
+  - [Developers Thought Blog](https://developersthought.in/)
+  - [Developers Thought YouTube Channel](https://www.youtube.com/developersthought)
 
 ## About Me
 
@@ -20,7 +21,7 @@ A platform where I explain the following technologies in the simplest possible m
 - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/cb4e1eb0-13ad-4d97-8f2d-76faa6653c83/public_url)
 - [Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/93a896cc-cc06-42a4-980e-5a881b672239/public_url)
 - [Red Hat Certified Specialist in OpenShift Administration](https://rhtapps.redhat.com/certifications/badge/verify/S2KHQWEPYUGPYECI7AY2YXFOYIAEQU3CUPSQX2KSDXT6RW46LQ3USGMBTDNSOFVX22WYNJ63KCC3BBTAOIVCQWO7U3Z7NRP66BA673I=)
-- Passionate about trending technologies and tools and always try to learn and share them in the simplest possible manner.
+- Passionate about trending technologies and tools.
 - Creator of a [YouTube](https://www.youtube.com/developersthought) channel and a [Blog](https://developersthought.in/). This is my main platform for knowledge sharing.
 - Other than YouTube Channel and Blog I also share knowledge through Meetups, Conferences & Webinars.
 - My area of interest is Hybrid Cloud, DevOps tools, and Infrastructure as a Code.
