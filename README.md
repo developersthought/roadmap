@@ -1,6 +1,6 @@
 # Developers Thought Forum
 
-Forum to discuss everything about **Developers Thought** [Blog](https://developersthought.in/) and [YouTube](https://www.youtube.com/developersthought) channel.
+Forum to discuss everything about **Developers Thought** [Blog](https://developersthought.in/) and [YouTube](https://www.youtube.com/developersthought) Channel.
 
 ## What to discuss?
 
