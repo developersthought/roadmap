@@ -30,3 +30,12 @@
 
 - Drop me an email at [contact@developersthought.in](mailto:contact@developersthought.in)
 - Connect with me on Twitter [@sagarjadhv23](https://twitter.com/sagarjadhv23) 
+
+## What's new?
+
+- [Demystify Pointers in Go](https://developersthought.in/go/2021/04/21/go-pointer.html)
+- [How to effectively Tag a Cloud Resource?](https://developersthought.in/cloud/terraform/2021/01/26/tag-cloud.html)
+
+## What's next?
+
+- [Extent kubectl CLI using plugins](https://github.com/developersthought/roadmap/issues/1)
